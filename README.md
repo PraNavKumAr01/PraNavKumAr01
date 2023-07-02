@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-# 💫 About Me:
+ 💫 About Me:
 🔭 I’m crrently pursuing BTech Computer Science<br>🌱 I’m currently learning OpenCV, Tensorflow and Deep Learning
 
 
